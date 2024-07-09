@@ -7,6 +7,6 @@ To run the code in different environments, you need the following tools installe
 - **Java Development Kit (JDK)** (for Java)
 - **.NET SDK** (for C#)
 >Include screenshots demonstrating the execution of the script in different environments (Node.js, Java, and C#) in Screensohots folder and bash file in the Executive_Files folder.
->In my pc I don't have .NET SDK for C# thats the output shown dotnet is not installed in your pc.
+>In my pc I don't have .NET SDK for C# thats why the output shown -"dotnet is not installed in your pc" for .NET execution.
 >![Minion](https://github.com/ROBIN2647/Challenge/blob/main/Screenshot/git_bash_ss.PNG)
   
